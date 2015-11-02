@@ -16,6 +16,7 @@
 
 ### Upcoming Release
 
+* [#124] [BUGFIX] Better detection of application models
 * [DOC] Add CircleCI badge to README
 * [DOC] Add CodeClimate badge to README
 
